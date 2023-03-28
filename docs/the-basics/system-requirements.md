@@ -10,15 +10,11 @@ If you are using services such as a VPS or a dedicated server, or if you are hos
 ## Requirements
 
 * [ ] Apache 2 or Nginx webserver (Configuration **NOT** included)
-* [ ] Reliable webhost (We Recommend [**Hexane Networks**](https://billing.hexanenetworks.com/aff.php?aff=358))
+* [ ] Reliable webhost (We Recommend [**Physgun**](https://physgun.com))
 * [ ] PHP >= 7.4 (PHP 8.0 recommended)
 * [ ] MySQL >= 5.8 or MariaDB >= 10.2
 * [ ] JSON, BCMath, OpenSSL, MBString, Tokenizer, XML PHP, CType & GMP (PHP Extensions)
 * [ ] `allow_url_fopen` module _enabled_
-
-## Our Recommended Hosting Provider
-
-[![Hexane Networks (Use Code COSMO for 25% off at checkout)](../../static/img/hexane-promo.png)](https://billing.hexanenetworks.com/aff.php?aff=358)
 
 ## Nginx Basic Configuration
 
