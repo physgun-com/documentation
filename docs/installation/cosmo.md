@@ -3,14 +3,6 @@ id: cosmo
 title: 🌐 Website
 ---
 
-## Are you more of a visual learner?
-
-Here is a short and simple YouTube video walking you through how to fully install Cosmo on our recommended host [Hexane Networks](https://billing.hexanenetworks.com/aff.php?aff=358) (Shared Hosting)
-
-[Video](https://www.youtube.com/watch?v=ME_wzVg8gV8)
-
-## Prefer to read?
-
 Make sure you download a fresh copy of cosmo from [gmodstore.com](https://www.gmodstore.com/market/view/7488).
 
 * [ ] Purchase and download a copy of Cosmo from gmodstore.
